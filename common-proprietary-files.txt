@@ -45,7 +45,7 @@ lib/libnative_renderer.so
 lib/liboemcamera.so
 
 # DRM
-bin/qseecomd
+#bin/qseecomd
 lib/libQSEEComAPI.so
 
 # GPS
